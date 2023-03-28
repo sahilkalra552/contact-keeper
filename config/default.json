@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://Muskan:$Muskan16@contactkeeper-usv3r.mongodb.net/test?retryWrites=true&w=majority",
+     "jwtSecret": "secret" 
+} 
